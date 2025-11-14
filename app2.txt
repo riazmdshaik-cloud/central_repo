@@ -1,2 +1,4 @@
 app2 application code.
 It has 100 lines of code
+
+app2 auther has been updated
